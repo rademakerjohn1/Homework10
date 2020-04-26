@@ -1,0 +1,25 @@
+.employee-card .card-header, .jumbotron {
+    background-color: steelblue;
+    color: white;
+ }
+ 
+ .employee-card {
+     padding: 0px;
+     margin-top: 20px
+ }
+ .team-area {
+     margin: auto;
+ }
+ .card-header {
+     text-align: center;
+ }
+ .card-header h3 {
+     font-size: 1.25em;
+ }
+
+.employee-card {
+    background-color: lightcyan;
+    min-width: 250px;
+    max-width: 250px;
+}
+
